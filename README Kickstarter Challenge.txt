@@ -13,8 +13,11 @@ Challenges were in bringing the total successful, failed and canceled amounts in
 ### Analysis of Outcomes Based on Launch Date
 Theater plays produced in May or June had nearly double the amount of success rate, for example May had 111 successful campaigns vs December which only had 37 successful campaigns. The same can be shown while comparing June and January, June has 100 successful campaigns and January has 56 successes.  The failures trend to be steady throughout the year however the success rate is the dominant comparison.   
 
+
+
 ### Analysis of Outcomes Based on Goals
 The outcomes based on goals graph illustrate when the play has a lower goal, there is a high percentage of success achieved.  For example, Less Than 1000 and 1000 to 4999 both have over a 70% success rate however a goal of 45000 and above only see a success rate of 12% or lower.  
+
 
 ### Challenges and Difficulties Encountered
 
